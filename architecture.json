@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_surrealist_memory_identity",
+  "title": "The Stone That Remembers",
+  "tagline": "To know yourself, you must first forget who you were.",
+  "target_words": 70000,
+  "actual_words": 69691,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Archaeology of Self",
+    "Memory as a Constructed Artifact",
+    "The Surrealism of Inherited Trauma",
+    "The Classical Body as a Vessel for Forgetting"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Warm Plinth",
+      "words": 2900
+    },
+    {
+      "ch": 2,
+      "title": "The Captain's Stones",
+      "words": 2850
+    },
+    {
+      "ch": 3,
+      "title": "The Keeper of Calipers",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "The Mask Adheres",
+      "words": 2800
+    },
+    {
+      "ch": 5,
+      "title": "First Echo of Marble",
+      "words": 3000
+    },
+    {
+      "ch": 6,
+      "title": "The Harbor of Lost Faces",
+      "words": 2750
+    },
+    {
+      "ch": 7,
+      "title": "Feast of Pomegranate Seeds",
+      "words": 3100
+    },
+    {
+      "ch": 8,
+      "title": "Lykos in the Labyrinth",
+      "words": 2850
+    },
+    {
+      "ch": 9,
+      "title": "The Andron of Whispers",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "Sculpting the Dream",
+      "words": 3200
+    },
+    {
+      "ch": 11,
+      "title": "The Ship of Theseus Paradox",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "The Oracle of Obsidian",
+      "words": 2800
+    },
+    {
+      "ch": 13,
+      "title": "Excavating Mother",
+      "words": 3100
+    },
+    {
+      "ch": 14,
+      "title": "The Dance of the Flickering Walls",
+      "words": 2750
+    },
+    {
+      "ch": 15,
+      "title": "Ariadne's Abandoned Thread",
+      "words": 3000
+    },
+    {
+      "ch": 16,
+      "title": "The Hero's Hollow Chest",
+      "words": 2850
+    },
+    {
+      "ch": 17,
+      "title": "The Sea That Grounds Voices",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "Council of Stone Selves",
+      "words": 3200
+    },
+    {
+      "ch": 19,
+      "title": "The Final Chisel Stroke",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "Unveiling the Empty Pedestal",
+      "words": 2800
+    },
+    {
+      "ch": 21,
+      "title": "Choosing the Forgetting",
+      "words": 3100
+    },
+    {
+      "ch": 22,
+      "title": "The New Plinth",
+      "words": 2750
+    },
+    {
+      "ch": 23,
+      "title": "Seeds of Stone",
+      "words": 2900
+    },
+    {
+      "ch": 24,
+      "title": "The Man Who Tasted Marble",
+      "words": 3050
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where the protagonist discovers a memory that isn't his own, carved into a piece of his uncle's stone collection.",
+      "Create a dialogue between the old keeper and a flickering figure from the wall, debating the ethics of memory erasure.",
+      "Describe a surreal 'marketplace' within the memory-labyrinth where identities are bartered and reshaped like antiquities.",
+      "Write a myth, in the classical Greek style, that explains the origin of the horn mask and its first wearer."
+    ],
+    "technical": [
+      "Build an interactive map of the memory-house, where each room (Andron, courtyard, circular chamber) reveals a fragment of the narrative or a thematic stone when clicked.",
+      "Create a text generator that produces 'surrealist ekphrasis'—descriptions of impossible classical art—inspired by the plinth carving and flickering walls."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Franz Kafka",
+      "Sophocles",
+      "Jorge Luis Borges",
+      "Louise Bourgeois"
+    ]
+  },
+  "cover_prompt": "A fragmented classical Greek statue of a woman, her marble form mid-transformation into swirling, liquid sand and forgotten memories, [Detailed Scene & Context: standing in a surreal archaeological dig site where the earth is made of layered, translucent strata revealing ghostly impressions of past lives and buried emotions, with artifacts of personal identity—a cracked mirror, a faded photograph, a child's toy—half-unearthed around her], [Artistic Style & Medium: in the atmospheric style of a metaphysical painting by Giorgio de Chirico blended with the symbolic surrealism of Remedios Varo, rendered in matte acrylic and textured impasto], [Composition & Camera: book cover framing, a centered and symmetrical composition viewed from a low-angle to emphasize the statue's monumental yet decaying presence against a vast, dreamlike sky], [Lighting & Color Palette: dramatic chiaroscuro lighting with a stark contrast between the cold, ethereal moonlight and the warm, glowing embers from within the earth's layers, using a palette of weathered marble white, archaeological ochre, deep umbra, and surreal azure], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
