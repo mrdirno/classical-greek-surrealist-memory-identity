@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The stone was warm. Not the dry, dusty warmth of a sun-baked wall, but a deep, subcutaneous heat, as if the marble had swallowed a sliver of noon and was digesting it slowly. I pressed my palm flat against the plinth, feeling the pulse of it through my skin. It was a stupid thing to do. My tutor, Lykos, would have slapped my knuckles with his reed for such sentimentality. *Marble is inert, Alexandros. It holds the shape of the artist’s intention, nothing more. To assign it feeling is to misunderstand the nature of both stone and self.*
@@ -184,6 +186,8 @@ I left the house as I found it, save for one thing. I took the mask. I wrapped i
 
 But now I knew the names were lies.
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The apartment in Athens smelled of beeswax and stale incense, a scent I’d curated to suggest scholarly asceticism rather than the cheap melancholy it actually was. I set the sailcloth bundle on the long, scarred table I used for examining acquisitions. The afternoon light, filtered through wooden shutters, cut the room into bars of gold and shadow. Dust motes danced in the beams, performing their silent, endless ballet. I used to find it peaceful. Now it looked like a prison.
@@ -365,6 +369,8 @@ The mask sat on the table across the room, a pale moon in the darkness. Waiting.
 Tomorrow, I would wear it again. Not to remember, but to perform.
 
 It felt, already, like a terrible mistake.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
