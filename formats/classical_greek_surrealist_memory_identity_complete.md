@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The stone was warm. Not the dry, dusty warmth of a sun-baked wall, but a deep, subcutaneous heat, as if the marble had swallowed a sliver of noon and was digesting it slowly. I pressed my palm flat against the plinth, feeling the pulse of it through my skin. It was a stupid thing to do. My tutor, Lykos, would have slapped my knuckles with his reed for such sentimentality. *Marble is inert, Alexandros. It holds the shape of the artist’s intention, nothing more. To assign it feeling is to misunderstand the nature of both stone and self.*
+Kleon’s left hand remembered the oar. His right recalled the spear. Two histories fought in the muscle, twitching as he stared at the perfect, unmarked skin of his own wrist. No scar from the Spartan blade. No callus from the Thracian galley. Just the ghost of a grip, holding nothing.
+
+
 
 But Lykos was ash in a bronze urn in the family columbarium, and I was here, in the overgrown courtyard of a house that memory had failed to sell.
 
